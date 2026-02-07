@@ -1,0 +1,17 @@
+# build artifacts
+/build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# VS Code
+.vscode/
+
+# binaries
+*.out
+*.exe
+
+# OpenCV temp
+*.avi
+*.mp4
